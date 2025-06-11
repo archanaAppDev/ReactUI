@@ -36,6 +36,7 @@ export const NotesList = () => {
         <p className="title">Lorem ipsum dolor sit.</p>
         <p className="discption">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, facilis temporibus saepe corporis cum maxime asperiores est reiciendis consequuntur nesciunt, itaque hic architecto qui officia dignissimos, accusantium debitis quam. Autem?</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, earum!</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, earum!</p>
       </BoxCard>
     </section>
 
